@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToplamaOyunu", "ToplamaOyunu\ToplamaOyunu.csproj", "{0320FC7E-8FEA-433B-A134-426C1AD19FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0320FC7E-8FEA-433B-A134-426C1AD19FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0320FC7E-8FEA-433B-A134-426C1AD19FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0320FC7E-8FEA-433B-A134-426C1AD19FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0320FC7E-8FEA-433B-A134-426C1AD19FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08E3D806-F162-475E-AE03-1D6E5AFDF405}
+	EndGlobalSection
+EndGlobal
